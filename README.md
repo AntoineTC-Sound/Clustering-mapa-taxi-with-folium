@@ -1,0 +1,1 @@
+This project focuses on clustering taxi zones using a combination of Folium for map visualization and semi-supervised learning techniques. By analyzing taxi data, we aim to identify patterns and clusters within different taxi zones, which can help in optimizing taxi distribution, improving service efficiency, and enhancing passenger satisfaction.
